@@ -61,4 +61,4 @@ This is useful as a Snowplow Mini alternative, demonstrating the whole Snowplow 
 [kibana]: https://www.elastic.co/products/kibana
 [nsq]: http://nsq.io/
 [head]: https://mobz.github.io/elasticsearch-head/
-[iglu]: https://github.com/snowplow/iglu
+[iglu]: https://github.com/snowplow/iglu# snowplow-realtime-docker
